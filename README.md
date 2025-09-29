@@ -1,4 +1,4 @@
-<img width="100%" height="10px" src="https://github.com/BeLfayza/BeLfayza/blob/main/rgbgaming.gif">
+<img width="100%" height="1px" src="https://github.com/BeLfayza/BeLfayza/blob/main/rgbgaming.gif">
 
 # Peace, peace! It's me, Gold Ship!
 <img src="https://github.com/BeLfayza/BeLfayza/blob/main/banner.jpg">
