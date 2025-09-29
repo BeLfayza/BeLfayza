@@ -35,9 +35,8 @@ Small automation scripts & random experiments
 <p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=BeLfayza&show_icons=true&theme=tokyonight" height="150"/> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=BeLfayza&layout=compact&theme=tokyonight" height="150"/> </p> <p align="center"> <img src="https://streak-stats.demolab.com?user=BeLfayza&theme=tokyonight&hide_border=false" height="150"/> </p>
 
 If I'm not coding, I'm probably:
-
-Scroll + rebahan
-Main game
-Tiba-tiba produktif jam 2 pagi
+- Scroll + rebahan
+- Main game
+- Tiba-tiba produktif jam 2 pagi
 
 Feel free to stalk my repos or drop a star ⭐
