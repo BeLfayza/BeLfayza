@@ -1,7 +1,7 @@
 ## 👾 Hi there, I'm **BeLfayza**!
 
 💬 *"Ngoding kalau ada tugas atau gabut."*  
-Kadang developer, kadang AFK. Powered by caffeine, mood, and debug magic.
+Kadang developer, kadang AFK.
 
 ---
 
