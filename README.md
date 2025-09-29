@@ -34,7 +34,6 @@ Copy code
 <img width="100%" height="2px" src="https://github.com/BeLfayza/BeLfayza/blob/main/rgbgaming.gif">
 
 ### ⭐ Highlight Projects
-Here are some of the things I've worked on (or broke and fixed again):
 ```bash
 Laundry Management System (PHP Native / CI3)
 UKS Administration App
