@@ -15,6 +15,8 @@ Languages:
 - Python
 - SQL
 ```
+<img src="https://github.com/BeLfayza/BeLfayza/blob/main/rgbgaming.gif">
+
 🛠️ Tools & Software
 ```bash
 Copy code
