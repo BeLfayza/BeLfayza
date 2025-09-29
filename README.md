@@ -10,7 +10,6 @@ Kadang developer, kadang AFK.
 
 ### 🎮 Tech & Code Skills
 ```bash
-Languages:
 - PHP
 - JavaScript
 - HTML/CSS
@@ -22,7 +21,6 @@ Languages:
 
 ### 🛠️ Tools & Software
 ```bash
-Copy code
 - VS Code
 - XAMPP
 - Git & GitHub
