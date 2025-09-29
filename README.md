@@ -1,4 +1,4 @@
-## Peace, peace! It's me, Gold Ship!
+# Peace, peace! It's me, Gold Ship!
 <img src="https://github.com/BeLfayza/BeLfayza/blob/main/banner.jpg">
 
 💬 *"Ngoding kalau ada tugas atau keinginan random pukul 3 pagi."*
