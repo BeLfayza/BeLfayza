@@ -1,6 +1,6 @@
 ## 👾 Hi there, I'm **BeLfayza**!
 
-💬 *"Ngoding kalau ada tugas atau gabut."*  
+💬 *"Ngoding kalau ada tugas atau keinginan random pukul 3 pagi."*  
 Kadang developer, kadang AFK.
 
 ---
