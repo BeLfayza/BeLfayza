@@ -1,5 +1,5 @@
 ## Hai! Saya menggunakan WhatsApp
-<img src="https://github.com/BeLfayza/BeLfayza/blob/main/banner.jpg">
+
 💬 *"Ngoding kalau ada tugas atau keinginan random pukul 3 pagi."*
 Kadang developer, kadang AFK.
 
