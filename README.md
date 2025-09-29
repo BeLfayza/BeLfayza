@@ -47,11 +47,9 @@ UKS Administration App
 
 <img width="100%" height="2px" src="https://github.com/BeLfayza/BeLfayza/blob/main/rgbgaming.gif">
 
-If I'm not coding, I'm probably:
+Kalo gak ngoding, berarti lagi:
 - Scroll + rebahan
 - Main game
 - Tiba-tiba produktif jam 2 pagi
-
-Feel free to stalk my repos or drop a star ⭐
 
 <img width="100%" height="2px" src="https://github.com/BeLfayza/BeLfayza/blob/main/rgbgaming.gif">
