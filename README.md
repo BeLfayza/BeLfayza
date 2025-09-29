@@ -13,6 +13,7 @@ Languages:
 - HTML/CSS
 - Python
 - SQL
+```
 🛠️ Tools & Software
 bash
 Copy code
