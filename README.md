@@ -20,7 +20,7 @@ Languages:
 
 <img width="100%" src="https://github.com/BeLfayza/BeLfayza/blob/main/rgbgaming.gif">
 
-🛠️ Tools & Software
+### 🛠️ Tools & Software
 ```bash
 Copy code
 - VS Code
@@ -33,7 +33,7 @@ Copy code
 
 <img width="100%" src="https://github.com/BeLfayza/BeLfayza/blob/main/rgbgaming.gif">
 
-⭐ Highlight Projects
+### ⭐ Highlight Projects
 Here are some of the things I've worked on (or broke and fixed again):
 ```bash
 Laundry Management System (PHP Native / CI3)
@@ -42,7 +42,7 @@ UKS Administration App
 
 <img width="100%" src="https://github.com/BeLfayza/BeLfayza/blob/main/rgbgaming.gif">
 
-Small automation scripts & random experiments
+### Small automation scripts & random experiments
 📊 GitHub Stats
 <p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=BeLfayza&show_icons=true&theme=tokyonight" height="150"/> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=BeLfayza&layout=compact&theme=tokyonight" height="150"/> </p> <p align="center"> <img src="https://streak-stats.demolab.com?user=BeLfayza&theme=tokyonight&hide_border=false" height="150"/> </p>
 
