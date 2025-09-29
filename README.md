@@ -1,7 +1,3 @@
-Siap! Berikut draft **README GitHub** dengan gaya anime/gaming vibes sesuai informasi yang kamu berikan. Kamu bisa langsung pakai atau minta revisi ya!
-
----
-
 ````markdown
 ## 👾 Hi there, I'm **BeLfayza**!
 
