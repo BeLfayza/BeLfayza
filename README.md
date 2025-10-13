@@ -1,7 +1,7 @@
 <img width="100%" height="2px" src="https://github.com/BeLfayza/BeLfayza/blob/main/rgbgaming.gif">
 
 # Peace, peace! It's me, Gold Ship!
-<img src="https://github.com/BeLfayza/BeLfayza/blob/main/banner.png">
+<img src="https://github.com/BeLfayza/BeLfayza/blob/main/banneriblis.png">
 
 💬 *"Ngoding kalau ada tugas atau keinginan random pukul 3 pagi."*
 Kadang developer, kadang AFK.
