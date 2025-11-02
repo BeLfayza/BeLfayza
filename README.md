@@ -1,7 +1,8 @@
 <img width="100%" height="2px" src="https://github.com/BeLfayza/BeLfayza/blob/main/rgbgaming.gif">
 
-# Peace, peace! It's me, Gold Ship!
-<img src="https://github.com/BeLfayza/BeLfayza/blob/main/banneriblis.png">
+#
+<img src="https://github.com/BeLfayza/BeLfayza/blob/main/agnas.gif">
+#
 
 <img width="100%" height="2px" src="https://github.com/BeLfayza/BeLfayza/blob/main/rgbgaming.gif">
 
@@ -10,7 +11,6 @@
 - PHP
 - JavaScript
 - HTML/CSS
-- Python
 - SQL
 ```
 
@@ -19,7 +19,7 @@
 ### 🛠️ Tools & Software
 ```bash
 - VS Code
-- XAMPP
+- XAMPP / Laragon
 - Git & GitHub
 - Laravel / CI3
 - Composer / NPM
