@@ -1,15 +1,20 @@
 <img width="100%" height="2px" src="https://github.com/BeLfayza/BeLfayza/blob/main/rgbgaming.gif">
 
 <div align="center">
-  <div style="display:flex; justify-content:center; align-items:flex-start; gap:16px; flex-wrap:wrap;">
-    <div style="display:flex; flex-direction:column; gap:10px;">
-      <img src="https://github-readme-steam-card.vercel.app/status/?steamid=76561199017573703&show_recent_game_bg=true&show_recent_game_bg=false" alt="Steam Card 1" style="width:320px; max-width:100%; border-radius:10px;"/>
-      <img src="https://github-readme-steam-card.vercel.app/status/?steamid=76561198769970210&show_recent_game_bg=true&show_recent_game_bg=false" alt="Steam Card 2" style="width:320px; max-width:100%; border-radius:10px;"/>
-    </div>
-    <a href="https://github.com/kittinan/spotify-github-profile" style="display:block;">
-      <img src="https://spotify-github-profile.kittinanx.com/api/view?uid=31k65fdyvbvh3pgxsb7jrt5ggx2u&cover_image=true&theme=default&show_offline=false&background_color=0D1117&interchange=true&profanity=false&bar_color=5900ff&bar_color_cover=true" alt="Spotify Card" style="width:400px; max-width:100%; border-radius:10px;"/>
-    </a>
-  </div>
+
+  <table>
+    <tr>
+      <td align="center" style="vertical-align: top;">
+        <img src="https://github-readme-steam-card.vercel.app/status/?steamid=76561199017573703&show_recent_game_bg=true&show_recent_game_bg=false" width="340"/><br>
+        <img src="https://github-readme-steam-card.vercel.app/status/?steamid=76561198769970210&show_recent_game_bg=true&show_recent_game_bg=false" width="340"/>
+      </td>
+      <td align="center" style="vertical-align: middle;">
+        <a href="https://github.com/kittinan/spotify-github-profile">
+          <img src="https://spotify-github-profile.kittinanx.com/api/view?uid=31k65fdyvbvh3pgxsb7jrt5ggx2u&cover_image=true&theme=default&show_offline=false&background_color=0D1117&interchange=true&profanity=false&bar_color=5900ff&bar_color_cover=true" width="400"/>
+        </a>
+      </td>
+    </tr>
+  </table>
 </div>
 
 <img width="100%" height="2px" src="https://github.com/BeLfayza/BeLfayza/blob/main/rgbgaming.gif">
