@@ -6,21 +6,21 @@
 
 <img width="100%" height="2px" src="https://github.com/BeLfayza/BeLfayza/blob/main/rgbgaming.gif">
 
-<div align="center" style="background-color:#0D1117; border-radius:20px; padding:20px; display:inline-block;">
-  <div style="display:flex; justify-content:center; align-items:center; flex-wrap:wrap; gap:10px;">
-    <a href="https://github.com/BeLfayza">
-      <img src="https://github-readme-stats.vercel.app/api?username=BeLfayza&show_icons=true&count_private=true&theme=react&bg_color=0D1117&title_color=00FFFF&text_color=FFFFFF&icon_color=00FFFF&hide_border=true" height="180" style="border-radius:12px;"/>
-    </a>
-    <a href="https://github.com/BeLfayza">
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=BeLfayza&layout=compact&theme=react&bg_color=0D1117&title_color=00FFFF&text_color=FFFFFF&hide_border=true" height="180" style="border-radius:12px;"/>
-    </a>
-  </div>
+<div align="center" style="display: inline-block; background-color: #0D1117; border-radius: 20px; padding: 10px;">
+  <table>
+    <tr>
+      <td>
+        <img src="https://github-readme-stats.vercel.app/api?username=BeLfayza&show_icons=true&count_private=true&theme=react&bg_color=0D1117&hide_border=true&title_color=00FFFF&text_color=FFFFFF&icon_color=00FFFF" height="180" style="margin:0; padding:0; border:0; display:block;">
+      </td>
+      <td>
+        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=BeLfayza&layout=compact&theme=react&bg_color=0D1117&hide_border=true&title_color=00FFFF&text_color=FFFFFF" height="180" style="margin:0; padding:0; border:0; display:block;">
+      </td>
+    </tr>
+  </table>
 
   <br>
 
-  <a href="https://github.com/BeLfayza">
-    <img src="https://streak-stats.demolab.com?user=BeLfayza&theme=tokyonight&hide_border=true&background=0D1117&ring=00FFFF&fire=00FFFF&currStreakLabel=FFFFFF" width="98%" style="border-radius:12px;"/>
-  </a>
+  <img src="https://streak-stats.demolab.com?user=BeLfayza&theme=tokyonight&hide_border=true&background=0D1117&ring=00FFFF&fire=00FFFF&currStreakLabel=FFFFFF" width="98%" style="margin:0; padding:0; border:0; display:block; border-radius:12px;">
 </div>
 
 <img width="100%" height="2px" src="https://github.com/BeLfayza/BeLfayza/blob/main/rgbgaming.gif">
