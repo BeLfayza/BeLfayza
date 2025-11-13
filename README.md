@@ -25,9 +25,7 @@
       </td>
     </tr>
   </table>
-
   <br>
-
   <img src="https://streak-stats.demolab.com?user=BeLfayza&theme=tokyonight&hide_border=true&background=0D1117&ring=5900ff&fire=5900ff&currStreakLabel=FFFFFF" width="98%" style="margin:0; padding:0; border:0; display:block; border-radius:12px;">
 </div>
 
