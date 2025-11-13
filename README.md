@@ -1,11 +1,12 @@
 <img width="100%" height="2px" src="https://github.com/BeLfayza/BeLfayza/blob/main/rgbgaming.gif">
 
 <div align="center">
-  STEAM
+  <h1>STEAM</h1>
   <div style="display:inline-block; vertical-align:top;">
     <img src="https://github-readme-steam-card.vercel.app/status/?steamid=76561199017573703&show_recent_game_bg=true&show_recent_game_bg=false" width="400"/>
     <img src="https://github-readme-steam-card.vercel.app/status/?steamid=76561198769970210&show_recent_game_bg=true&show_recent_game_bg=false" width="400"/>
   </div>
+  <h1>SPOTIFY</h1>
   <div style="display:inline-block; vertical-align:middle;">
   <a href="https://github.com/kittinan/spotify-github-profile">
     <img src="https://spotify-github-profile.kittinanx.com/api/view?uid=31k65fdyvbvh3pgxsb7jrt5ggx2u&cover_image=true&theme=spotify-embed&show_offline=true&background_color=000000&interchange=true&profanity=false&bar_color=53b14f&bar_color_cover=true&mode=dark" width="800">
