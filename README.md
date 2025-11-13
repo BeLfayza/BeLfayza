@@ -6,10 +6,19 @@
 
 <img width="100%" height="2px" src="https://github.com/BeLfayza/BeLfayza/blob/main/rgbgaming.gif">
 
-<div align="center" style="display: flex; justify-content: center; gap: 10px; flex-wrap: wrap;">
-  <img src="https://github-readme-stats.vercel.app/api?username=BeLfayza&show_icons=true&theme=tokyonight&hide_border=true" height="160" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=BeLfayza&layout=compact&theme=tokyonight&hide_border=true" height="160" />
-  <img src="https://streak-stats.demolab.com?user=BeLfayza&theme=tokyonight&hide_border=true" height="160" />
+<div align="center">
+
+  <!-- Kotak gabungan Stats + Languages -->
+  <a href="https://github.com/BeLfayza">
+    <img src="https://github-readme-stats.vercel.app/api?username=BeLfayza&show_icons=true&include_all_commits=true&theme=tokyonight&hide_border=true&custom_title=GitHub%20Overview" height="180"/>
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=BeLfayza&layout=compact&theme=tokyonight&hide_border=true" height="180"/>
+  </a>
+
+  <!-- Streak -->
+  <br>
+  <img src="https://streak-stats.demolab.com?user=BeLfayza&theme=tokyonight&hide_border=true" height="180"/>
+
 </div>
+
 
 <img width="100%" height="2px" src="https://github.com/BeLfayza/BeLfayza/blob/main/rgbgaming.gif">
