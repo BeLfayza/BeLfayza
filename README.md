@@ -16,7 +16,7 @@
 <div align="center">
   <h1>GITHUB.IO NGUWAWOR</h1>
   <div>
-  [![YadaYadaDesu!](https://img.shields.io/badge/YadaYadaDesu!-Visit%20Site-5900ff?style=for-the-badge)](https://belfayza.github.io/yadayadadesu/)
+  # [YadaYadaDesu!](https://belfayza.github.io/yadayadadesu/)
   </div>
 </div>
 <img width="100%" height="2px" src="https://github.com/BeLfayza/BeLfayza/blob/main/rgbgaming.gif">
