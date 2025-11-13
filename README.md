@@ -18,6 +18,7 @@
 </div>
 
 # [YadaYadaDesu!](https://belfayza.github.io/yadayadadesu/)
+# [Snake Eater](https://belfayza.github.io/snake-eater/)
 
 <img width="100%" height="2px" src="https://github.com/BeLfayza/BeLfayza/blob/main/rgbgaming.gif">
 
