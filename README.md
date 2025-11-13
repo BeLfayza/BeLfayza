@@ -9,7 +9,6 @@
 - HTML/CSS
 - SQL
 ```
-
 <img width="100%" height="2px" src="https://github.com/BeLfayza/BeLfayza/blob/main/rgbgaming.gif">
 
 ### 🛠️ Tools & Software
@@ -21,7 +20,6 @@
 - Composer / NPM
 - Browser DevTools
 ```
-
 <img width="100%" height="2px" src="https://github.com/BeLfayza/BeLfayza/blob/main/rgbgaming.gif">
 
 ### ⭐ Highlight Projects
@@ -29,7 +27,6 @@
 Laundry Management System (PHP Native / CI3)
 UKS Administration App
 ```
-
 <img width="100%" height="2px" src="https://github.com/BeLfayza/BeLfayza/blob/main/rgbgaming.gif">
 
 ### Small automation scripts & random experiments
