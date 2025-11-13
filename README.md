@@ -2,11 +2,9 @@
 
 <div align="center">
   <img src="https://github-readme-steam-card.vercel.app/status/?steamid=76561199017573703&show_recent_game_bg=true&show_recent_game_bg=false"/>
-  <p align="center">
   <a href="https://github.com/kittinan/spotify-github-profile">
     <img src="https://spotify-github-profile.kittinanx.com/api/view?uid=31k65fdyvbvh3pgxsb7jrt5ggx2u&cover_image=true&theme=default&show_offline=false&background_color=121212&interchange=false&profanity=false&bar_color=5900ff&bar_color_cover=true">
   </a>
-</p>
 </div>
 
 <img width="100%" height="2px" src="https://github.com/BeLfayza/BeLfayza/blob/main/rgbgaming.gif">
