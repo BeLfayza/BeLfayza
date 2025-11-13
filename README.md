@@ -3,11 +3,11 @@
 <div align="center">
   <table>
     <tr>
-      <td align="center" style="vertical-align: top; border:none;">
+      <td align="center" style="vertical-align: top; border:0px;">
         <img src="https://github-readme-steam-card.vercel.app/status/?steamid=76561199017573703&show_recent_game_bg=true&show_recent_game_bg=false" width="300"/><br>
         <img src="https://github-readme-steam-card.vercel.app/status/?steamid=76561198769970210&show_recent_game_bg=true&show_recent_game_bg=false" width="300"/>
       </td>
-      <td align="center" style="vertical-align: middle; border:none;">
+      <td align="center" style="vertical-align: middle; border:0px;">
         <a href="https://github.com/kittinan/spotify-github-profile">
           <img src="https://spotify-github-profile.kittinanx.com/api/view?uid=31k65fdyvbvh3pgxsb7jrt5ggx2u&cover_image=true&theme=default&show_offline=false&background_color=0D1117&interchange=true&profanity=false&bar_color=5900ff&bar_color_cover=true" width="420"/>
         </a>
