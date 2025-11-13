@@ -1,7 +1,7 @@
 <img width="100%" height="2px" src="https://github.com/BeLfayza/BeLfayza/blob/main/rgbgaming.gif">
 <img width="100%" src="https://github.com/BeLfayza/BeLfayza/blob/main/agnas.gif">
 <img width="100%" height="2px" src="https://github.com/BeLfayza/BeLfayza/blob/main/rgbgaming.gif">
-![Total Repositories](https://count.getloli.com/get/@BeLfayza?theme=minecraft)
+[![Jumlah repository](https://count.getloli.com/get/@BeLfayza?theme=minecraft)](https://github.com/BeLfayza)
 
 ### 🎮 Tech & Code Skills
 ```bash
