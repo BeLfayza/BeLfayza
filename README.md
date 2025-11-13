@@ -5,7 +5,7 @@
     <img src="https://github-readme-steam-card.vercel.app/status/?steamid=76561199017573703&show_recent_game_bg=true&show_recent_game_bg=false" width="400"/>
     <img src="https://github-readme-steam-card.vercel.app/status/?steamid=76561198769970210&show_recent_game_bg=true&show_recent_game_bg=false" width="400"/>
   </div>
-  <div style="display:inline-block; vertical-align:middle;" width="100%">
+  <div style="display:inline-block; vertical-align:middle;" width="500">
   <a href="https://github.com/kittinan/spotify-github-profile">
     <img src="https://spotify-github-profile.kittinanx.com/api/view?uid=31k65fdyvbvh3pgxsb7jrt5ggx2u&cover_image=true&theme=novatorem&show_offline=true&background_color=000000&interchange=true&profanity=false&bar_color=53b14f&bar_color_cover=true">
   </a>
