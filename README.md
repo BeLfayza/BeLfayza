@@ -15,11 +15,8 @@
 <img width="100%" height="2px" src="https://github.com/BeLfayza/BeLfayza/blob/main/rgbgaming.gif">
 <div align="center">
   <h1>GITHUB.IO NGUWAWOR</h1>
+  <a href="https://github.com/BeLfayza">Projek Aneh2</a>
 </div>
-
-# [YadaYadaDesu!](https://belfayza.github.io/yadayadadesu/)
-# [Snake Eater](https://belfayza.github.io/snake-eater/)
-
 <img width="100%" height="2px" src="https://github.com/BeLfayza/BeLfayza/blob/main/rgbgaming.gif">
 
 <div align="center" style="display:inline-block; background-color:#0D1117; border-radius:20px; padding:10px;">
