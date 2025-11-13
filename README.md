@@ -16,7 +16,7 @@
 <div align="center">
   <h1>GITHUB.IO NGUWAWOR</h1>
   <div>
-    <a target="_blank" href="https://belfayza.github.io/yadayadadesu/">YadaYadaDesu!</a>
+    <a href="https://belfayza.github.io/yadayadadesu/" target="_blank">YadaYadaDesu!</a>
   </div>
 </div>
 <img width="100%" height="2px" src="https://github.com/BeLfayza/BeLfayza/blob/main/rgbgaming.gif">
