@@ -2,8 +2,8 @@
 
 <div align="center">
   <div style="display:inline-block; vertical-align:top;">
-    <img src="https://github-readme-steam-card.vercel.app/status/?steamid=76561199017573703&show_recent_game_bg=true&show_recent_game_bg=false""/>
-    <img src="https://github-readme-steam-card.vercel.app/status/?steamid=76561198769970210&show_recent_game_bg=true&show_recent_game_bg=false""/>
+    <img src="https://github-readme-steam-card.vercel.app/status/?steamid=76561199017573703&show_recent_game_bg=true&show_recent_game_bg=false" width="50%"/>
+    <img src="https://github-readme-steam-card.vercel.app/status/?steamid=76561198769970210&show_recent_game_bg=true&show_recent_game_bg=false" width="50%"/>
   </div>
   <div style="display:inline-block; vertical-align:middle; margin-left:20px;">
     <a href="https://github.com/kittinan/spotify-github-profile">
