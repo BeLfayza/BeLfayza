@@ -8,14 +8,15 @@
 
 <div align="center">
   <a href="https://github.com/BeLfayza">
-    <img width="60%" src="https://github-readme-stats.vercel.app/api?username=BeLfayza&show_icons=true&count_private=true&title_color=00FFFF&text_color=FFFFFF&icon_color=00FFFF&bg_color=0D1117&theme=react&hide_border=true" alt="BeLfayza's GitHub stats" />
+    <img height="180" src="https://github-readme-stats.vercel.app/api?username=BeLfayza&show_icons=true&count_private=true&theme=react&bg_color=0D1117&title_color=00FFFF&text_color=FFFFFF&icon_color=00FFFF&hide_border=true" />
   </a>
   <a href="https://github.com/BeLfayza">
-    <img width="38.25%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=BeLfayza&langs_count=10&layout=compact&theme=react&hide_border=true&bg_color=0D1117&title_color=00FFFF&text_color=FFFFFF&custom_title=Top%20Languages" alt="Top Languages" />
+    <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=BeLfayza&layout=compact&theme=react&bg_color=0D1117&title_color=00FFFF&text_color=FFFFFF&hide_border=true" />
   </a>
+
   <br>
   <a href="https://github.com/BeLfayza">
-    <img width="98%" src="https://streak-stats.demolab.com?user=BeLfayza&theme=tokyonight&hide_border=true&background=0D1117&ring=00FFFF&fire=00FFFF&currStreakLabel=FFFFFF" alt="GitHub Streak" />
+    <img width="98%" src="https://streak-stats.demolab.com?user=BeLfayza&theme=tokyonight&hide_border=true&background=0D1117&ring=00FFFF&fire=00FFFF&currStreakLabel=FFFFFF" />
   </a>
 </div>
 
