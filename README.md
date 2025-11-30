@@ -14,7 +14,7 @@
 
 <img width="100%" height="2px" src="https://github.com/BeLfayza/BeLfayza/blob/main/rgbgaming.gif">
 <div align="center">
-[GITHUB.IO NGUWAWOR](https://belfayza.github.io/)
+  <h1>https://belfayza.github.io/</h1>
 </div>
 <img width="100%" height="2px" src="https://github.com/BeLfayza/BeLfayza/blob/main/rgbgaming.gif">
 
