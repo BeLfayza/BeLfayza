@@ -22,11 +22,11 @@
   <table>
     <tr>
       <td>
-        <img src="https://github-readme-stats.vercel.app
+        <img src="https://github-readme-stats-gules-rho-89.vercel.app
 /api?username=BeLfayza&show_icons=true&count_private=true&theme=react&bg_color=0D1117&hide_border=true&title_color=5900ff&text_color=FFFFFF&icon_color=5900ff" height="180" style="margin:0; padding:0; border:0; display:block;">
       </td>
       <td>
-        <img src="https://github-readme-stats.vercel.app
+        <img src="https://github-readme-stats-gules-rho-89.vercel.app
 /api/top-langs/?username=BeLfayza&layout=compact&theme=react&bg_color=0D1117&hide_border=true&title_color=5900ff&text_color=FFFFFF" height="180" style="margin:0; padding:0; border:0; display:block;">
       </td>
     </tr>
