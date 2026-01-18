@@ -24,7 +24,7 @@
     </tr>
   </table>
   <br>
-  <img src="https://https://github-readme-streak-stats-vert-delta.vercel.app/?user=BeLfayza&theme=tokyonight&hide_border=true&background=0D1117&ring=5900ff&fire=5900ff&currStreakLabel=FFFFFF" width="98%" style="margin:0; padding:0; border:0; display:block; border-radius:12px;">
+  <img src="https://github-readme-streak-stats-vert-delta.vercel.app/?user=BeLfayza&theme=tokyonight&hide_border=true&background=0D1117&ring=5900ff&fire=5900ff&currStreakLabel=FFFFFF" width="98%" style="margin:0; padding:0; border:0; display:block; border-radius:12px;">
 </div>
 
 <img width="100%" height="2px" src="https://github.com/BeLfayza/BeLfayza/blob/main/rgbgaming.gif">
