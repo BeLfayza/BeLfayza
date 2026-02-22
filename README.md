@@ -13,7 +13,7 @@
 </div>
 <img width="100%" height="2px" src="https://github.com/BeLfayza/BeLfayza/blob/main/rgbgaming.gif">
 
-<h1>
+<h1 align="center">
   <a href="https://belfayza.github.io/">GitHub.io</a>
 </h1>
 
