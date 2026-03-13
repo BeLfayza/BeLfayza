@@ -1,7 +1,7 @@
 <img width="100%" height="2px" src="https://github.com/BeLfayza/BeLfayza/blob/main/rgbgaming.gif">
 <div align="center">
-  <a href="https://bel-meledak.vercel.app/" style="font-size:40px; font-weight:bold; text-decoration:none;">
-    BEL MELEDAK
+  <a href="https://bel-meledak.vercel.app/">
+    <img src="https://img.shields.io/badge/VISIT-BEL_MELEDAK-5900ff?style=for-the-badge&logo=vercel&logoColor=white">
   </a>
 </div>
 <div align="center" style="display:inline-block; background-color:#0D1117; border-radius:20px; padding:10px;">
